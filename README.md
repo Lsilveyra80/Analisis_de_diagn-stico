@@ -25,3 +25,10 @@ Relación entre descuentos y ventas.
 Comparación de ventas por región y categoría.
 Identificación de posibles factores problemáticos.
 Conclusión: Resumen de hallazgos clave.
+
+## 5. Siguientes Pasos
+Ejecuta el código y revisa las visualizaciones y resultados.
+Interpreta los gráficos:
+¿El descuento tiene un impacto positivo o negativo en las ventas?
+¿Hay regiones donde las ventas son consistentemente más bajas?
+Documenta tus hallazgos en un README para tu repositorio.
